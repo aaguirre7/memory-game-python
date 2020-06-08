@@ -1,2 +1,3 @@
 # PythonGames
-some games i learn to code during my python adventure
+some games I've learned to code during my python adventure.
+keep posted for more. 
