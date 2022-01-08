@@ -11,7 +11,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/aaguirre7/memory-game-python">
-        <img src="./assets/images/logo_readme.png" alt="memory_game">
+        <img src="./assets/images/memlogo.png" alt="memory_game">
     <a/>
     <h3 align="center">
         Python simple memory game
